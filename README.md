@@ -1,0 +1,2 @@
+# DSC230900004-Alif-Septian
+Data Scientist BINAR ACADEMY BOOTCAMP for CHALLANGE
