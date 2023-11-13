@@ -1,0 +1,15 @@
+tags:
+  - name: Upload File
+parameters:
+  - in: formData
+    name: file
+    required: True
+    type: file
+    description: upload file
+responses:
+    '200':
+      description: Successful response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Server Error
